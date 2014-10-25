@@ -1,0 +1,21 @@
+The system should allow the supervisor to have an overview of the real time position of all the trucks.In case there are not enough gps data for a truk, dots will be shown on the map indicating the latest know positions.
+
+The system should keep all the historical data for all trucks as of day-1.
+
+The system should allow the supervisor to create a mission on the map: All the stops as well as the route can be configured from the supervisor and will be immediately available to the driver
+
+The system should allow the supervisor to see real time which mission-stops have already been visited
+
+The system should allow the supervisor to add real time a new mission-stop to the ongoing mission. The driver has to be notified automatically via the mobile app.
+
+The system should provide map navigation to the driver and calculation of the most efficient route depending on the different missions will take place. 
+
+The system should allow the driver to add comments at each mission stop. Comments will immediately be available to the supervisor
+
+The system should provide the following statistics: Average speed, Max speed, Stop time per mission, Total Time per mission, Total number of stops
+
+The system should store locally the gps data if internet coverage is not available. The data is kept on the mobile and as soon as internet is available data is sent to server
+
+The system should notify the driver in case mobile data is disabled on the device.
+
+The system should allow the mobile to be paired with the truck. The initial pairing has to be done either by the driver himself or by the supervisor. 
